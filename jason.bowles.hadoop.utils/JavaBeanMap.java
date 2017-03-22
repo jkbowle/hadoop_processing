@@ -1,4 +1,4 @@
-package com.app.analytics.cf.utils;
+package jason.bowles.hadoop.utils;
 
 import java.util.ArrayList;
 import java.util.HashMap;
