@@ -1,4 +1,4 @@
-package com.app.analytics.cf.utils;
+package jason.bowles.hadoop.utils;
 
 public class ResultSetUtilOutputFormatter{
 	public String format(Object value, String columnName) {
